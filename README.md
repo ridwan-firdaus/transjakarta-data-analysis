@@ -2,6 +2,11 @@
 ## Latar Belakang
 Transjakarta merupakan transportasi publik yang cukup penting bagi masyarakat Jakarta. Transportasi publik ini membantu masyarakat Jakarta dalam berkegiatan sehari-hari. Karena pentingnya itu, demi kelancaran dan efisiensi dalam melayani kebutuhan masyarakat Jakarta, maka perlunya analisis kemampuan dan kapasitas dari transjakarta itu sendiri. Agar transjakarta dapat terus memberikan pelayanan terbaik bagi masyarakat Jakarta, akan dilakukan analisis data untuk mengevaluasi pelayanan dan kapasitas dari transjakarta agar masyarakat Jakarta tetap nyaman dalam beraktivitas menggunakan transjakarta dan transjakarta dalam pelaksanaan operasional berjalan secara efisien.
 
+## Tools yang digunakan 
+Analisis dilakukan menggunakan python, pandas, numpy, seaborn, matplotlib, geopandas, folium, tableau.
+
+Link Tableau: [Tableau](https://public.tableau.com/app/profile/muhammad.ridwan.firdaus/viz/Transjakarta-PublicTransportation_17141419110570/Demografi)
+
 ## Dataset
 Data pada analisis transjakarta ini meliputi beberapa hal diantaranya mengenai:
 
@@ -23,8 +28,3 @@ Analisis waktu sibuk membahas diantaranya jam-jam sibuk pada saat transjakarta m
    
 ### 3. Analisis Koridor Transjakarta
 Analisis koridor membahas diantaranya dengan menganalisis koridor-koridor dengan jumlah pengguna terbanyak dan paling sedikit pada transjakarta.
-
-## Tools yang digunakan 
-Analisis dilakukan menggunakan python, pandas, numpy, seaborn, matplotlib, geopandas, folium, tableau.
-
-Link Tableau: [Tableau](https://public.tableau.com/app/profile/muhammad.ridwan.firdaus/viz/Transjakarta-PublicTransportation_17141419110570/Demografi)
